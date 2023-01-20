@@ -99,13 +99,13 @@ p {
 .skill-img-1 {
     float: left;
     margin-right: 30px;
-    width: 25%;
+    width: 20%;
 }
 
 .skill-img-2 {
     float: right;
     margin-left: 30px;
-    width: 25%;
+    width: 20%;
 }
 
 .skills>h2 {
